@@ -3,7 +3,7 @@ package h1;
 public class H1_main {
 	public static void main(String[] args) {
 //Initialisierung der Variablen
-		double guthaben = -50.03, monEingang =-20;
+		double guthaben = 0, monEingang =-20;
 		int rating = 4;
 		boolean warnhinweis = true, negativ = true;
 //Definition Beträge
